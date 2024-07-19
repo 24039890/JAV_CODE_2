@@ -18,14 +18,14 @@ public class BIG {
         double top2 = 25.3;
         double top3 = 40;
         
-         double small = 30;
+         double small = 30;3
          double medium = 50;
          double large = 60;
          System.out.println(" small:" + small);
          System.out.println(" medium:" + medium);
          System.out.println("large:" + large);
        
-         
+
           Scanner taste = new Scanner(System.in);
          
           System.out.println(" enter the amount of the pizza your want to oder depending on the size " );
