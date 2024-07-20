@@ -18,7 +18,7 @@ public class BIG {
         double top2 = 25.3;
         double top3 = 40;
         
-         double small = 30;3
+         double small = 30;
          double medium = 50;
          double large = 60;
          System.out.println(" small:" + small);
